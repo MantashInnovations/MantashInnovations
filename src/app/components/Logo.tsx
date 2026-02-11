@@ -1,4 +1,4 @@
-import logoImage from "@/assets/logo.png";
+const logoImage = '/assets/logo.png';
 import { ImageWithFallback } from "@/app/components/figma/ImageWithFallback";
 
 interface LogoProps {

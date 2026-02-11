@@ -3,11 +3,11 @@ import { Linkedin, Users, Target, Rocket, Award } from 'lucide-react';
 import { Link } from 'react-router-dom';
 import { ImageWithFallback } from '@/app/components/figma/ImageWithFallback';
 
-const tabishImage = 'src/assets/tabishImg.png';
-const manahilImage = 'src/assets/manahilImg.png';
-const intizanImage = 'src/assets/intizanImg.png';
-const zahabImage = 'src/assets/zahabImg.png';
-const salmanImage = 'src/assets/salmanImg.png';
+const tabishImage = '/assets/tabishImg.png';
+const manahilImage = '/assets/manahilImg.png';
+const intizanImage = '/assets/intizanImg.png';
+const zahabImage = '/assets/zahabImg.png';
+const salmanImage = '/assets/salmanImg.png';
 
 export function AboutPage() {
   return (
